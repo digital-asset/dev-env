@@ -17,7 +17,7 @@
 If this is your first time, please read the rest fo this README first.
 
 ```
-curl -sL https://github.com/digital-asset/dev-env/archive/master.tar.gz | tar xzf - --strip-components=1 dev-env-master/dev-env dev-env-master/.envrc
+curl -sL https://github.com/digital-asset/dev-env/archive/main.tar.gz | tar xzf - --strip-components=1 dev-env-main/dev-env dev-env-main/.envrc
 direnv allow
 ```
 
