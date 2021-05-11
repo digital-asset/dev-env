@@ -43,7 +43,7 @@ never work with people who don't know Nix.
 You would probably be better served by [lorri] or [nix_direnv], if you're not
 fully happy with `nix-shell` alone.
 
-[lorri]: https://github.com/target/lorri
+[lorri]: https://github.com/nix-community/lorri
 [nix_direnv]: https://github.com/nix-community/nix-direnv
 
 ## What?
