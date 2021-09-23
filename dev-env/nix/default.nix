@@ -86,7 +86,9 @@ in rec {
     #tred      = graphviz;
     #unflatten = graphviz;
     #circo     = graphviz;
-    #pandoc = pkgs.pandoc;
+    #pandoc    = pkgs.pandoc;
+    #node      = pkgs.nodejs;
+    #npm       = pkgs.nodejs;
 
     # Cryptography tooling
     #gnupg = pkgs.gnupg;
